@@ -13,11 +13,11 @@ I am also specialized in statistics, python libraries- Numpy,Pandas,Matplotlib,S
 - Cloud & Agile Experience: Experienced in AWS cloud solutions and agile methodologies, adapting to dynamic project requirements.
 
 🛠️ Technical Skills:
-- Core Competencies:** Data Engineering, Systems Design, Agile Methodologies, Big Data, Data Modeling, Data Warehousing
-- Programming & Scripting:** Python, PySpark, Java, Gitlab
-- Big Data Technologies:** Apache Kafka, Hadoop, Hive, MongoDB, Snowflake
-- Data Processing & Visualization:** AWS Glue, Data Lakes, Microsoft Power BI, Tableau, SnapLogic iPaaS
-- DevOps & Cloud:** Docker, AWS Step Functions, CI/CD, Amazon Elastic Container Registry (ECR), Amazon S3
+- Core Competencies: Data Engineering, Systems Design, Agile Methodologies, Big Data, Data Modeling, Data Warehousing
+- Programming & Scripting: Python, PySpark, Java, Gitlab
+- Big Data Technologies: Apache Kafka, Hadoop, Hive, MongoDB, Snowflake
+- Data Processing & Visualization: AWS Glue, Data Lakes, Microsoft Power BI, Tableau, SnapLogic iPaaS
+- DevOps & Cloud: Docker, AWS Step Functions, CI/CD, Amazon Elastic Container Registry (ECR), Amazon S3
 - Data Science Essentials: Statistical Analysis & Modeling, Machine Learning, Data Visualization, Quantitative Analysis, Python Programming
   
 🏆 Honors & Awards:
@@ -25,11 +25,11 @@ I am also specialized in statistics, python libraries- Numpy,Pandas,Matplotlib,S
 - Q1 Thumbs-up Award (Jun 2023): Acknowledged as a top performer for Q1 2024 at Pitney Bowes.
 
 📜 Licenses & Certifications:
-- Machine Learning, Data Science and Deep Learning with Python** - Udemy (Apr 2023)
-- Java for Software Developers** - Udemy (May 2020)
-- Foundation: Data, Data, Everywhere** - Google
-- Master Big Data - Apache Spark/Hadoop/Sqoop/Hive/Flume/Mongo** - Udemy
-- Power BI Master Class - Dashboards and Power BI Service** - Udemy
+- Machine Learning, Data Science and Deep Learning with Python - Udemy (Apr 2023)
+- Java for Software Developers - Udemy (May 2020)
+- Foundation: Data, Data, Everywhere - Google
+- Master Big Data - Apache Spark/Hadoop/Sqoop/Hive/Flume/Mongo - Udemy
+- Power BI Master Class - Dashboards and Power BI Service - Udemy
 
 ---
 
